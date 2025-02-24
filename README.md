@@ -1,4 +1,4 @@
-# Oranex
+# Oranex(in progress🚧)
 
 > [!NOTE]
 > Oranex is an experimental JIRA-like, framework-free single-page application (SPA) built with Vanilla JS.
