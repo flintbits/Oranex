@@ -1,0 +1,48 @@
+.app-info {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: "Arial", sans-serif;
+  text-align: center;
+}
+
+.app-info h1 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.app-info p {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.app-info ul {
+  list-style: none;
+  padding: 0;
+}
+
+.app-info li {
+  background: #007bff;
+  padding: 8px 12px;
+  margin: 6px 0;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.home-button,
+.test-project-button {
+  margin-top: 15px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
